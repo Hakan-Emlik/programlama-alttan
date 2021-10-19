@@ -1,1 +1,1 @@
-puts 'malbatu'
+puts 'hello world'
